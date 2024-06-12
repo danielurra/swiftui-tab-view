@@ -1,5 +1,6 @@
 # swiftUI Tab View
 Animation
+![tab-view](https://github.com/danielurra/swiftui-tab-view/assets/51704179/eb9ab321-1b2e-49c6-a1e6-6be4a993325a)
 
 ## Grab the code - Account file
 ```swift
